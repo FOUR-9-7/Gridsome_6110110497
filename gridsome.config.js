@@ -3,6 +3,7 @@
 
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
+const path = require('path');
 module.exports = {
   siteName: 'Valorant',
   siteDescription: "FIGHT AROUND THE WORLD",
