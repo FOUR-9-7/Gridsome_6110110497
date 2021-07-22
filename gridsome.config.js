@@ -3,10 +3,12 @@
 
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
-
 module.exports = {
   siteName: 'Valorant',
   siteDescription: "FIGHT AROUND THE WORLD",
+  siteUrl: 'https://FOUR-9-7.github.io',
+  pathPrefix: '/Gridsome_6110110497',
+
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',

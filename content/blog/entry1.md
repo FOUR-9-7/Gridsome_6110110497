@@ -10,11 +10,10 @@ author: author1, author2, author3
 featured: true
 ---
 
-## Ossa narrat sortita fecerat sit conataque
+## Brimstone
 
-Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
-candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia
-arva.
+Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance make him an unmatched boots-on-the-ground commander.
+
 
 ## Eleis celeberrimus loci ait falsa infelix tuoque
 
